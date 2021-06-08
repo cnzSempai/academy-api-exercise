@@ -1,7 +1,6 @@
 package api.config;
 
-import services.ResponseHeadersService;
-import services.UserService;
+import services.*;
 
 public enum EntityConfiguration {
 
@@ -16,6 +15,37 @@ public enum EntityConfiguration {
         @Override
         public Class<?> getEntityService() {
             return ResponseHeadersService.class;
+        }
+    },
+
+    EPISODE {
+        @Override
+        public Class<?> getEntityService() {
+            return EpisodeServices.class;
+        }
+    },
+    ALL_EPISODES {
+        @Override
+        public Class<?> getEntityService() {
+            return AllEpisodeServices.class;
+        }
+    },
+    CHARACTER {
+        @Override
+        public Class<?> getEntityService() {
+            return CharacterService.class;
+        }
+    },
+    ALLOC {
+        @Override
+        public Class<?> getEntityService() {
+            return AllLocationsServices.class;
+        }
+    },
+    LOCATION {
+        @Override
+        public Class<?> getEntityService() {
+            return SingleLocationService.class;
         }
     };
 
