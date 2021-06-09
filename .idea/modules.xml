@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lippia-api-example-project.iml" filepath="$PROJECT_DIR$/lippia-api-example-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-api-exercise.iml" filepath="$PROJECT_DIR$/academy-api-exercise.iml" />
     </modules>
   </component>
 </project>
