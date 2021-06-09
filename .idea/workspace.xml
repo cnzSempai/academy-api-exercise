@@ -5,15 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c66e755-367b-4b9c-854a-54848eaa7f67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/model/MultipleLocationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/MultipleLocationServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ar/validator/ValidateLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/AllEpisodeServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/AllEpisodeServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/CharacterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/CharacterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ar/steps/RickAndMortySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/steps/RickAndMortySteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ar/validator/ValidateEpisode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/validator/ValidateEpisode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/RickAndMorty.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/RickAndMorty.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="Local" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1tgRGiGdTCh6q1jdYJV1ROaaG9Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -24,11 +50,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristian\Documents\apiYo\academy-api-exercise" />
+      <recent name="C:\Users\Cristian\Documents\apiYo\academy-api-exercise\src\test\resources\jsons\response\RyM" />
+      <recent name="C:\Users\Cristian\Documents\apiYo\academy-api-exercise\src\test\resources\jsons\request\RyM" />
+      <recent name="C:\Users\Cristian\Documents\apiYo\academy-api-exercise\src\test\resources\features" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services" />
+      <recent name="ar.validator" />
+      <recent name="ar.steps" />
       <recent name="api.model" />
     </key>
   </component>

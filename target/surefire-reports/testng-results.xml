@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BDD Test Suite" duration-ms="5638" started-at="2021-06-08T23:01:29Z" finished-at="2021-06-08T23:01:34Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@617faa95]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Login and Update Profile Test" duration-ms="5638" started-at="2021-06-08T23:01:29Z" finished-at="2021-06-08T23:01:34Z">
+      <class name="ApiExampleProjectTestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:ApiExampleProjectTestRunner@617faa95]" name="setUpClass" is-config="true" duration-ms="299" started-at="2021-06-08T23:01:29Z" finished-at="2021-06-08T23:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ApiExampleProjectTestRunner@617faa95]" name="runScenario" duration-ms="5165" started-at="2021-06-08T23:01:29Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-06-08T23:01:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Pedimos una simple locacion al API de Rick and Morty"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Rick and Morty"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:ApiExampleProjectTestRunner@617faa95]" name="tearDownClass" is-config="true" duration-ms="17" started-at="2021-06-08T23:01:34Z" finished-at="2021-06-08T23:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- ApiExampleProjectTestRunner -->
+    </test> <!-- Login and Update Profile Test -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>

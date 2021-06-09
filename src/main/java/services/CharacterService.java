@@ -1,7 +1,6 @@
 package services;
 
 import api.model.CharacterModel;
-import api.model.ResponseHeaders;
 import com.crowdar.api.rest.MethodsService;
 import com.crowdar.api.rest.Response;
 

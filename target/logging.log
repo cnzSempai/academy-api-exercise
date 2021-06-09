@@ -1,0 +1,6 @@
+08/06/21 20:01:30 INFO  BasicHook:20 - ------ Starting -----Pedimos una simple locacion al API de Rick and Morty-----
+08/06/21 20:01:30 INFO  BasicHook:20 - ------ Starting -----Pedimos una simple locacion al API de Rick and Morty-----
+08/06/21 20:01:30 INFO  MethodsService:109 - >>>Request: https://rickandmortyapi.com/api/location/2, {Content-Type=application/json}, {}
+08/06/21 20:01:34 INFO  RestClient:90 - >>>Response: <200 OK,api.model.Results@4939f968,{access-control-allow-origin=[*], content-length=[213], content-type=[application/json; charset=utf-8], cache-control=[max-age=259200, public], date=[Mon, 07 Jun 2021 06:10:12 GMT], etag=[W/"d5-OELk8R01utiAMPp44JJX/ht0VU8"], expires=[Thu, 10 Jun 2021 06:10:12 GMT], server=[Netlify], age=[147085], x-nf-request-id=[d9cdfdb6-5983-4760-8f30-c40e62ae1f0e], x-powered-by=[Express]}>
+08/06/21 20:01:34 INFO  BasicHook:35 - ------ Ending -----Pedimos una simple locacion al API de Rick and Morty-----
+08/06/21 20:01:34 INFO  BasicHook:35 - ------ Ending -----Pedimos una simple locacion al API de Rick and Morty-----

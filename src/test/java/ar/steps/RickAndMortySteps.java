@@ -1,17 +1,13 @@
 package ar.steps;
 
-import api.config.EntityConfiguration;
 import api.model.AllEpisodesModel;
 import api.model.EpisodeModel;
 import ar.validator.ValidateEpisode;
 import com.crowdar.api.rest.APIManager;
 import com.crowdar.core.PageSteps;
-import cucumber.api.java.en.When;
 import io.cucumber.java.en.And;
 import services.AllEpisodeServices;
 
-import java.lang.reflect.InvocationTargetException;
-import java.util.Map;
 import java.util.Random;
 
 public class RickAndMortySteps extends PageSteps {
